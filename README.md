@@ -29,7 +29,7 @@ git commit -m “Add <YOUR VALIDATOR NAME>”
 git push origin <branch_name>
 ```
 
-5. From your repository, make pull requesrt (PR)
+5. From your repository, make pull request (PR)
 
 ## Image Requirements
 
